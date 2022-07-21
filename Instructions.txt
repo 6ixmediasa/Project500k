@@ -1,0 +1,12 @@
+Database config can be found in: common/config.php
+
+Admin Login details: 
+
+username: Admin
+password: YourLove58505
+
+
+User Login details: 
+
+username: Admin2
+password: admin
