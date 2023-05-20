@@ -3,7 +3,7 @@ Database config can be found in: common/config.php
 Admin Login details: 
 
 username: Admin
-password: YourLove58505
+password: admin
 
 
 User Login details: 
